@@ -1,5 +1,4 @@
 const numberOfVowels = function(data) {
-  // Put your solution here
   let count = 0;
   let splitData = [];
   splitData = data.split("")
